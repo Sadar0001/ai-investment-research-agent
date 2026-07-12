@@ -7,7 +7,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.39-red)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-> ⚠️ **Educational tool only.** InvestIQ AI generates AI-assisted research summaries, not licensed financial advice. Always do your own due diligence.
 
 ---
 
